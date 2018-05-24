@@ -3,6 +3,13 @@
     margin-bottom: 50px;
 }
 
+.text:hover{
+    cursor: default;
+}
+
+.options:hover{
+    cursor: pointer;
+}
 .options{
     text-align: center;
     margin-top: 20px;
